@@ -1,0 +1,12 @@
+{
+    "name": "fpay/alipay-sdk-php",
+    "description": "支付宝sdk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "chenyang289",
+            "email": "chenyang289@jd.com"
+        }
+    ],
+    "require": {}
+}
