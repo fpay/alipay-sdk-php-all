@@ -8,5 +8,16 @@
             "email": "chenyang289@jd.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "AliPay\\": "aop/",
+            "AliPay\\Request\\": "aop/request/"
+        }
+    },
+    "autoload-dev": {
+        "psr-0": {
+            "AliPay\\Test\\": "aop/test/"
+        }
+    }
 }
