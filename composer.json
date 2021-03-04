@@ -2,6 +2,7 @@
     "name": "fpay/alipay-sdk-php",
     "description": "支付宝sdk",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "chenyang289",
