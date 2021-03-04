@@ -1,0 +1,24 @@
+{
+    "name": "fpay/alipay-sdk-php",
+    "description": "支付宝sdk",
+    "type": "library",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "chenyang289",
+            "email": "chenyang289@jd.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "AliPay\\": "aop/",
+            "AliPay\\Request\\": "aop/request/"
+        }
+    },
+    "autoload-dev": {
+        "psr-0": {
+            "AliPay\\Test\\": "aop/test/"
+        }
+    }
+}
